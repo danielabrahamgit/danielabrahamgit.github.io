@@ -295,6 +295,18 @@ table td:first-child {
   width: 70%;
 }
 
+.wrapper_small {
+  margin: 0 auto;
+  width: 70%;
+  font-size: small;
+}
+
+.wrapper_large {
+  margin: 5 auto;
+  width: 70%;
+  font-size: medium;
+}
+
 .footer {
   text-align: center;
   background-color: var(--primary-color);
@@ -310,4 +322,18 @@ table td:first-child {
   100% {
     transform: translate3d(0,0,0);
   }
+}
+
+ul {
+  margin: 0;
+}
+ul.dashed {
+  list-style-type: none;
+}
+ul.dashed > li {
+  text-indent: -5px;
+}
+ul.dashed > li:before {
+  content: "";
+  text-indent: -5px;
 }
