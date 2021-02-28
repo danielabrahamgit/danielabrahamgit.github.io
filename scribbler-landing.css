@@ -57,10 +57,12 @@ nav {
 
 .feature__item .section__title {
   margin-bottom: 0;
+  margin-left: 10.5rem;
 }
 
 .feature__item p {
   margin-top: 0.5rem;
+  margin-left: 2.5rem;
 }
 
 /* keybinding section */
