@@ -1,9 +1,9 @@
-/* nav specialized to landing page */
+/* nav specialized to landing page 
 .logo {
   background: url('logo.svg') no-repeat;
   background-size: contain;
   margin: 1rem 0 0 1rem;
-}
+}*/
 
 nav {
   background-color: var(--bg-color);
@@ -13,10 +13,11 @@ nav {
 .hero {
   text-align: center;
   background-color: var(--bg-color);
-  padding: 2rem 0 10rem 0;
+  padding: 2rem 0 1rem 0;
 }
 
 .hero__title {
+  margin: -1rem auto 2rem auto;
   font-weight: 900;
   color: var(--primary-color);
 }
