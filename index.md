@@ -12,7 +12,7 @@ layout: home
 <span style="font-size:3em;">Daniel Abraham's Portfolio</span>
 </p>
 
-<p style="text-align:center;"><img src="../../images/daniel.png" alt="Daniel" style="width:400px" class="center">
+<p style="text-align:center;"><img src="../../images/daniel.PNG" alt="Daniel" style="width:400px" class="center">
 </p>
 
 ****   
