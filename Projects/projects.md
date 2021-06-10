@@ -14,7 +14,7 @@ My Digital Signal Processing class (EE 123) held a final competition for an anim
 ****
 
 ### Simulating Collisions
-<p style="text-align:center;"><a href="Collisions"><img src="../../images/ball.PNG" alt="HTML tutorial" style="width:250px" class="center"></a></p>
+<p style="text-align:center;"><a href="Collisions"><img src="../../images/ball.png" alt="HTML tutorial" style="width:250px" class="center"></a></p>
 
 <p style="text-align: center;">  
 This project involves using C++ to simulate many circles coliding with one another. The goal is to be able to handle as many colisions as possible in order to observe the effects of the ideal gas laws.
