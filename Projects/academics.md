@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academics
-permalink: Academics
+permalink:  /Projects/academics
 ---
 
 ## Teaching
