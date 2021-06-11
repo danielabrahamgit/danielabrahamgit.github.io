@@ -22,6 +22,6 @@ layout: home
 <span style="font-size:2em;">About</span> <br><br>
 
 My name is Daniel Abraham, I am a senior studying Electrical Engineering and Computer Science at UC Berkeley. 
-As a passionate engineer, I love teaching, learning, and building new things. My fields of interests include mathematics, graphics, signal processing, machine learning, circuit design, and embedded systems. Doing fun side projects are the best way of expressing my interests. You can check out some of my projects in the projects tab.
+As a passionate engineer, I love teaching, learning, and building new things. My fields of interests include signal processing, machine learning, and embedded systems. Doing fun side projects are the best way of expressing my interests. You can check out some of my projects in the projects tab.
 </p>
 
