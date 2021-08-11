@@ -1,19 +1,22 @@
 ---
 layout: page
 title: Academics
-permalink:  /Projects/academics
+permalink:  /Academics/academics
 ---
 
 ## Teaching
-#### EECS 16A Discussion TA (Fall 2020)
-- Held office hours where students asked questions on circuit theory and linear algebra
-- Ran (2x) weekly discussion sections where a group of students were lead through review material and problem sets
-- Tended to student's course related question on the official course web forum (piazza)   
+#### EE 120 Head TA (Fall 2021)
+- TBD   
 
 #### EECS 16B Content TA (Spring 2021)
 - Working with a team of TAs, generated homework problem sets and exam problems for students studying circuits, signal processing, introductory machine learning, and control systems
 - Ran (2x) weekly discussion sessions where groups of students are lead through interactive course material review and relevant problem sets
 - Held (2x) weekly office hours where students are helped personally with course related questions
+- Tended to student's course related question on the official course web forum (piazza)   
+
+#### EECS 16A Discussion TA (Fall 2020)
+- Held office hours where students asked questions on circuit theory and linear algebra
+- Ran (2x) weekly discussion sections where a group of students were lead through review material and problem sets
 - Tended to student's course related question on the official course web forum (piazza)
 
 ## Research

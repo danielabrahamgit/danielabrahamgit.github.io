@@ -1,11 +1,9 @@
 title: Home
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Daniel
+  email: daniel_abraham1@berkeley.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Daniel's personal website
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
