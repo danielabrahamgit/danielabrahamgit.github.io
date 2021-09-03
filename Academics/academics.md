@@ -6,7 +6,7 @@ permalink:  /Academics/academics
 
 ## Teaching
 #### EE 120 Head TA (Fall 2021)
-- TBD   
+- TBD
 
 #### EECS 16B Content TA (Spring 2021)
 - Working with a team of TAs, generated homework problem sets and exam problems for students studying circuits, signal processing, introductory machine learning, and control systems
@@ -24,7 +24,9 @@ permalink:  /Academics/academics
 
 Assisted with Suma Anand's Beat Pilot Tone project, a method of using multiple constant RF tones to detect patient motion in an MRI scanner.    
 
-The project involved working with the ADF4351 frequency generator board, a micorcontroller, and general RF components in order to generate pure RF tones (100MHz - 3GHz), optimized for phase noise.  
+The project involved working with the ADF4351 frequency generator board, a micorcontroller, and general RF components in order to generate pure RF tones (100MHz - 3GHz), optimized for phase noise.   
+
+In addition to working with the frequency synthesis boards, I also got the chance to impliment a new technique for Pilot Tone motion detection. This technique uses Spread Spectrum Modulation in order to spread the Pilot Tone over the entire image, leading to a noise-like image artifact. Then, using a crafted algorithm, a motion signal can be detected robustly. This means that the Pilot Tone device would not need to know the MR bandwidth or center frequency to a high degree of certanty. Rather, the sprectrum is spread over an extremely wide range, which we assume the MR will operate in. Testing this new method includes working with the USRP B200 SDR and writing a Pilot Tone simulator in Python.
 
 ## Relevant Coursework
 #### Signal Processing
