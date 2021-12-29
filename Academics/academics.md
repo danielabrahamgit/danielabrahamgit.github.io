@@ -6,7 +6,10 @@ permalink:  /Academics/academics
 
 ## Teaching
 #### EE 120 Head TA (Fall 2021)
-- TBD
+- Head TA for UC Berkeley's [Signals And Systems (EE 120)](https://inst.eecs.berkeley.edu/~ee120/fa21/), a upper-divison course on the fundementals of Signal Processing
+- With the help of four talented course staff members and Professor Avideh Zakhor, we succesfully led more than 75 students through the challenging coursework
+- Content creation included weekly homeworks, discussions, and interactive Jupyter Notebook labs
+- Held weekly office hourse, discssion sessions, and homework party sessions to aid in student learning
 
 #### EECS 16B Content TA (Spring 2021)
 - Working with a team of TAs, generated homework problem sets and exam problems for students studying circuits, signal processing, introductory machine learning, and control systems
