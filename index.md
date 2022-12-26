@@ -12,7 +12,7 @@ layout: home
 <span style="font-size:3em;">Daniel Abraham's Portfolio</span>
 </p>
 
-<p style="text-align:center;"><img src="../../images/daniel.PNG" alt="Daniel" style="width:400px" class="center">
+<p style="text-align:center;"><img src="../../images/daniel.PNG" alt="Daniel" style="width:200px" class="center">
 </p>
 
 ****   
@@ -21,7 +21,6 @@ layout: home
 
 <span style="font-size:2em;">About</span> <br><br>
 
-My name is Daniel Abraham, I am a senior studying Electrical Engineering and Computer Science at UC Berkeley. 
-As a passionate engineer, I love teaching, learning, and building new things. My fields of interests include signal processing, machine learning, and embedded systems. Doing fun side projects are the best way of expressing my interests. You can check out some of my projects in the projects tab.
+I'm an Electrical Engineering PhD student at Stanford. 
 </p>
 
